@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Hello BUDDHADEV!</h1>
-<h2>Thank You</h2>
+<h1 style="color:DodgerBlue;">Hello BUDDHADEV!</h1>
+<h2 style="color:Tomato;">Thank You!</h2>
 </body>
 </html>
