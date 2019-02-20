@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World! Thank You! </h2>
-<h3> My Name is BUDDHADEV </h3>
+<h1>Hello World! Thank You! </h1>
+<h2> My Name is BUDDHADEV and this my Test Project! </h2>
 </body>
 </html>
